@@ -1,0 +1,34 @@
+body
+{
+    background-color: #d4cf96;
+}
+
+.nav-bar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#393d26;
+}
+
+.nav-bar li
+{
+    float: left;
+}
+
+.nav-bar li a
+{
+    display: block;
+    color: rgb(212, 207, 150);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: dotted;
+
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
